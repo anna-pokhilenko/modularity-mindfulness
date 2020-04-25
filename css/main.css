@@ -1,0 +1,12 @@
+html {
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-family: "Noto Sans", sans-serif;
+}
+
+@media only screen and (max-width: 60em) {
+
+  .center {
+    text-align: center;
+  }
+
+}
